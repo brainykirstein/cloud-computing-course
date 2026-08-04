@@ -17,7 +17,7 @@ This repository serves as my organized workspace for all course requirements, in
 
 - **Name:** Kirstein Michael C. Jose
 - **Course/Section:** BSIT 3
-- **Instructor:** [Your Instructor's Name]
+- **Instructor:** [JENKIELYN TORRES]
 - **School Year:** 2026-2027
 
 ---
